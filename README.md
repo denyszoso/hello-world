@@ -1,3 +1,3 @@
 # hello-world
-Commin for main branch
-Commint for foo branch
+Commit for main branch
+Commit for foo branch
